@@ -1,6 +1,4 @@
 
-# cpp_finance
-
 ## Black-Scholes Option Pricing Model in C++
 
 This project provides a C++ implementation of the Black-Scholes model. Additionally, it computes the option Greeks.
